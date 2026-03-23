@@ -1,4 +1,4 @@
-# RollingStone vs Spotify Analysis
+# Rolling Stone vs Spotify Analysis
 
 > Note: The dashboard and final report are in Spanish. The Python notebook is in English.
 
