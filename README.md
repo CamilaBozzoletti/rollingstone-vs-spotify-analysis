@@ -28,7 +28,3 @@ Python • Pandas • Matplotlib / Seaborn • Looker Studio
 
 ## Project Context
 Final project for the Data Analysis Bootcamp at Código Facilito.
-
-## Contact
-For questions or collaboration:  
-[LinkedIn](https://linkedin.com/in/camilabozzoletti)
